@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Java</fullName>
+        <default>true</default>
+        <label>Java</label>
+    </customValue>
+    <customValue>
+        <fullName>PHP</fullName>
+        <default>false</default>
+        <label>PHP</label>
+    </customValue>
+    <customValue>
+        <fullName>Usine logicielle</fullName>
+        <default>false</default>
+        <label>Usine logicielle</label>
+    </customValue>
+    <customValue>
+        <fullName>.NET</fullName>
+        <default>false</default>
+        <label>.NET</label>
+    </customValue>
+    <customValue>
+        <fullName>JS</fullName>
+        <default>false</default>
+        <label>JS</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobilité</fullName>
+        <default>false</default>
+        <label>Mobilité</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud</fullName>
+        <default>false</default>
+        <label>Cloud</label>
+    </customValue>
+    <customValue>
+        <fullName>Run</fullName>
+        <default>false</default>
+        <label>Run</label>
+    </customValue>
+    <customValue>
+        <fullName>Sécurité</fullName>
+        <default>false</default>
+        <label>Sécurité</label>
+    </customValue>
+    <customValue>
+        <fullName>Drupal</fullName>
+        <default>false</default>
+        <label>Drupal</label>
+    </customValue>
+    <customValue>
+        <fullName>SAP Hybris</fullName>
+        <default>false</default>
+        <label>SAP Hybris</label>
+    </customValue>
+    <customValue>
+        <fullName>Talend</fullName>
+        <default>false</default>
+        <label>Talend</label>
+    </customValue>
+    <customValue>
+        <fullName>MOE</fullName>
+        <default>false</default>
+        <label>MOE</label>
+    </customValue>
+    <customValue>
+        <fullName>MOA</fullName>
+        <default>false</default>
+        <label>MOA</label>
+    </customValue>
+    <customValue>
+        <fullName>TMA</fullName>
+        <default>false</default>
+        <label>TMA</label>
+    </customValue>
+    <customValue>
+        <fullName>Automatisation des tests</fullName>
+        <default>false</default>
+        <label>Automatisation des tests</label>
+    </customValue>
+    <customValue>
+        <fullName>Tests Fonctionnels / TRA</fullName>
+        <default>false</default>
+        <label>Tests Fonctionnels / TRA</label>
+    </customValue>
+    <customValue>
+        <fullName>Performance Applicative</fullName>
+        <default>false</default>
+        <label>Performance Applicative</label>
+    </customValue>
+    <customValue>
+        <fullName>BigData</fullName>
+        <default>false</default>
+        <label>BigData</label>
+    </customValue>
+    <customValue>
+        <fullName>DataSience</fullName>
+        <default>false</default>
+        <label>DataSience</label>
+    </customValue>
+    <customValue>
+        <fullName>BI</fullName>
+        <default>false</default>
+        <label>BI</label>
+    </customValue>
+    <customValue>
+        <fullName>Bases de données</fullName>
+        <default>false</default>
+        <label>Bases de données</label>
+    </customValue>
+    <customValue>
+        <fullName>Blockchain</fullName>
+        <default>false</default>
+        <label>Blockchain</label>
+    </customValue>
+    <customValue>
+        <fullName>ML</fullName>
+        <default>false</default>
+        <label>ML</label>
+    </customValue>
+    <customValue>
+        <fullName>IA</fullName>
+        <default>false</default>
+        <label>IA</label>
+    </customValue>
+    <masterLabel>Pôle</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

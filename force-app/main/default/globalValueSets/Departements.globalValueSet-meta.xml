@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Assurance Qualité</fullName>
+        <default>false</default>
+        <label>Assurance Qualité</label>
+    </customValue>
+    <customValue>
+        <fullName>DATA</fullName>
+        <default>false</default>
+        <label>DATA</label>
+    </customValue>
+    <customValue>
+        <fullName>Digital</fullName>
+        <default>false</default>
+        <label>Digital</label>
+    </customValue>
+    <customValue>
+        <fullName>Edition Logicielle</fullName>
+        <default>false</default>
+        <label>Edition Logicielle</label>
+    </customValue>
+    <customValue>
+        <fullName>MOE/MOA</fullName>
+        <default>false</default>
+        <label>MOE/MOA</label>
+    </customValue>
+    <customValue>
+        <fullName>Nouvelles Technologies</fullName>
+        <default>false</default>
+        <label>Nouvelles Technologies</label>
+    </customValue>
+    <customValue>
+        <fullName>R&amp;D</fullName>
+        <default>false</default>
+        <label>R&amp;D</label>
+    </customValue>
+    <masterLabel>Départements</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
